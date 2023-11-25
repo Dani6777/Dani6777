@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Dani6777
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 ¡Hola! Soy Daniel Morales.
 
-<!---
-Dani6777/Dani6777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Me interesa el desarrollo de software y la creación de soluciones tecnológicas.
+
+🌱 Actualmente estoy aprendiendo sobre análisis de datos y mejorando mis habilidades en Java y MySQL.
+
+💞️ Estoy buscando colaborar en proyectos relacionados con el desarrollo de software y análisis de datos.
+
+📫 Puedes contactarme a través de mi correo daniel.morales23@outlook.cl.
