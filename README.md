@@ -15,10 +15,13 @@ Soy un apasionado desarrollador full-stack de Chile, actualmente trabajando en m
 ## Idiomas y Herramientas
 - JavaScript (Node.js, React, Redux)
 - Python (Django)
-- Java
+- Java(Spring Boot)
 - HTML5, CSS3
 - Bootstrap, Tailwind CSS
 - Docker
+- Jenkins
+- AWS
+- Serverless Framework
 - Git
 - MySQL, PostgreSQL, MongoDB
 - Oracle
