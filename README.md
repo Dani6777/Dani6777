@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Daniel Morales
 
 ## Acerca de mí
-Soy un apasionado desarrollador full-stack de Chile, actualmente trabajando en mi **Portafolio**. Estoy aprendiendo y mejorando mis habilidades en **Python**, **Docker** y **React**.
+Soy un apasionado desarrollador full-stack de Chile, actualmente enfocado en perfeccionar mi **Portafolio**. Mi viaje profesional incluye el aprendizaje constante y la mejora de habilidades en **Python**, **Docker** y **React**.
 
 - 💻 Todos mis proyectos están disponibles en [mi sitio web](https://dmaportafolioweb.000webhostapp.com/).
 
@@ -22,6 +22,7 @@ Soy un apasionado desarrollador full-stack de Chile, actualmente trabajando en m
 - CSS3
 - Bootstrap
 - Tailwind CSS
+
 ## Desarrollo Backend
 - Node.js
 - Python
@@ -29,11 +30,13 @@ Soy un apasionado desarrollador full-stack de Chile, actualmente trabajando en m
 - Django Rest Framework
 - Java
 - Spring Boot
+
 ## Bases de Datos
 - MySQL
 - PostgreSQL
 - MongoDB
 - Oracle Database
+
 ## Herramientas y Tecnologías
 - Docker
 - Jenkins
