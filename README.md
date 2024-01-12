@@ -12,19 +12,34 @@ Soy un apasionado desarrollador full-stack de Chile, actualmente trabajando en m
 ## Conéctate conmigo
 - [LinkedIn](https://linkedin.com/in/danielmoralesarias)
 
-## Idiomas y Herramientas
-- JavaScript (Node.js, React, Redux)
-- Python (Django)
-- Java(Spring Boot)
-- HTML5, CSS3
-- Bootstrap, Tailwind CSS
+ ## Desarrollo Frontend
+- JavaScript
+- TypeScript
+- React
+- Ionic
+- Redux
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+## Desarrollo Backend
+- Node.js
+- Python
+- Django
+- Django Rest Framework
+- Java
+- Spring Boot
+## Bases de Datos
+- MySQL
+- PostgreSQL
+- MongoDB
+- Oracle Database
+## Herramientas y Tecnologías
 - Docker
 - Jenkins
-- AWS
+- AWS (Lambda, S3, API Gateway)
 - Serverless Framework
 - Git
-- MySQL, PostgreSQL, MongoDB
-- Oracle
 - Linux
 
 ## Estadísticas
