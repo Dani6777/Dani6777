@@ -46,7 +46,7 @@ Soy un apasionado desarrollador full-stack de Chile, actualmente enfocado en per
 - Linux
 
 ## Estadísticas
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dani6777&layout=compact)
+![Top Lenguajes](https://img.shields.io/github/languages/top/dani6777/dani6777)
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=dani6777&show_icons=true&locale=en)
 
