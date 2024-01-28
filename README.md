@@ -10,7 +10,7 @@ Soy un apasionado desarrollador full-stack de Chile, actualmente enfocado en per
 - ⚡ Dato curioso: ¡Creo que soy gracioso! 😄
 
 ## Conéctate conmigo
-- [LinkedIn](https://linkedin.com/in/danielmoralesarias)
+- [LinkedIn](https://www.linkedin.com/in/daniel-23dma/)
 
  ## Desarrollo Frontend
 - JavaScript
