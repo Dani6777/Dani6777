@@ -1,49 +1,36 @@
-# ¡Hola! 👋 Soy Daniel Morales
+¡Hola! 👋 Soy Daniel Morales, un apasionado desarrollador full-stack de Chile. Me encanta crear soluciones innovadoras y perfeccionar mi craft constantemente.
+- 💼 Conoce más sobre mi trayectoria en [LinkedIn](https://www.linkedin.com/in/daniel-23dma/).
+- 📧 No dudes en escribirme a [daniel.morales23@outlook.cl](mailto:daniel.morales23@outlook.cl) para colaboraciones o consultas.
+- 🌐 Visita [mi sitio web](https://dmaportafolioweb.000webhostapp.com/) para ver todos mis proyectos.
 
-## Acerca de mí
-Soy un apasionado desarrollador full-stack de Chile, actualmente enfocado en perfeccionar mi **Portafolio**. Mi viaje profesional incluye el aprendizaje constante y la mejora de habilidades en **Python**, **Docker** y **React**.
+  ## Habilidades de Desarrollo
 
-- 💻 Todos mis proyectos están disponibles en [mi sitio web](https://dmaportafolioweb.000webhostapp.com/).
+### Desarrollo Frontend
+- JavaScript | TypeScript
+- React | Ionic
+- Redux | Context API
+- HTML5 | CSS3 | Bootstrap | Tailwind CSS
 
-- 📧 Puedes contactarme en [daniel.morales23@outlook.cl](mailto:daniel.morales23@outlook.cl).
+### Desarrollo Backend
+- Node.js | Express.js
+- Java | Spring Boot
 
-- ⚡ Dato curioso: ¡Creo que soy gracioso! 😄
+### Bases de Datos
+- MySQL | PostgreSQL | MongoDB | Oracle Database
 
-## Conéctate conmigo
-- [LinkedIn](https://www.linkedin.com/in/daniel-23dma/)
-
- ## Desarrollo Frontend
-- JavaScript
-- TypeScript
-- React
-- Ionic
-- Redux
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-
-## Desarrollo Backend
-- Node.js
-- Java
-- Spring Boot
-
-## Bases de Datos
-- MySQL
-- PostgreSQL
-- MongoDB
-- Oracle Database
-
-## Herramientas y Tecnologías
-- Docker
-- Jenkins
+### Herramientas y Tecnologías
+- Docker | Jenkins
 - AWS (Lambda, S3, API Gateway)
-- Serverless Framework
-- Git
-- Linux
+- Serverless Framework | Git | Linux
 
-## Estadísticas
+ ## Estadísticas de GitHub
 
+### Top Lenguajes
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dani6777&layout=compact)
 
+### Racha de GitHub
 ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=dani6777)
+
+## Dato Curioso
+⚡ ¡Creo que soy gracioso! 😄
+
