@@ -25,9 +25,6 @@ Soy un apasionado desarrollador full-stack de Chile, actualmente enfocado en per
 
 ## Desarrollo Backend
 - Node.js
-- Python
-- Django
-- Django Rest Framework
 - Java
 - Spring Boot
 
