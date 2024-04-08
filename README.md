@@ -7,13 +7,13 @@
 
 ### Desarrollo Frontend
 - JavaScript | TypeScript
-- React | Ionic
+- React 
 - Redux | Context API
 - HTML5 | CSS3 | Bootstrap | Tailwind CSS
 
 ### Desarrollo Backend
 - Node.js | Express.js
-- Java | Spring Boot
+- Java | Spring Boot | Quarkus
 
 ### Bases de Datos
 - MySQL | PostgreSQL | MongoDB | Oracle Database
