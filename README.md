@@ -27,9 +27,9 @@ Soy un apasionado desarrollador full-stack de Chile, comprometido con la creaci�
 - Serverless Framework | Git | Linux
 
 ## Proyectos Destacados
-- [Serverless](#https://github.com/Dani6777/aws-crud-lambda): Creación de un servicio utilizando el framework Serverless Framework, desarrollado con Node.js y conectando una base de datos DynamoDB en AWS.
-- [Curso Java](#https://github.com/Dani6777/Ejercicios-backend): Desarrollo de un repositorio en GitHub que contiene recursos y materiales para aprender Java desde cero hasta un nivel experto.
-- [WALLET](#https://github.com/Dani6777/WalletSite): Desarrollo de una Wallet digital de manera full stack utilizando Spring Boot para el backend y React para el frontend. Este proyecto demuestra mi experiencia en el desarrollo de aplicaciones completas, desde el diseño de la arquitectura hasta la implementación de características tanto en el backend como en el frontend. La Wallet digital proporcionará una solución integral para la gestión de finanzas personales y transacciones en línea.
+- [Serverless](https://github.com/Dani6777/aws-crud-lambda): Creación de un servicio utilizando el framework Serverless Framework, desarrollado con Node.js y conectando una base de datos DynamoDB en AWS.
+- [Curso Java](https://github.com/Dani6777/Ejercicios-backend): Desarrollo de un repositorio en GitHub que contiene recursos y materiales para aprender Java desde cero hasta un nivel experto.
+- [WALLET](https://github.com/Dani6777/WalletSite): Desarrollo de una Wallet digital de manera full stack utilizando Spring Boot para el backend y React para el frontend. Este proyecto demuestra mi experiencia en el desarrollo de aplicaciones completas, desde el diseño de la arquitectura hasta la implementación de características tanto en el backend como en el frontend. La Wallet digital proporcionará una solución integral para la gestión de finanzas personales y transacciones en línea.
 
 ## Contribuciones y Colaboraciones
 ¡Estoy abierto a contribuciones en mis proyectos y a colaboraciones en nuevos proyectos! Si estás interesado en trabajar juntos, ¡no dudes en contactarme!
